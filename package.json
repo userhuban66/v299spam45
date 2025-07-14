@@ -1,0 +1,14 @@
+
+{
+  "name": "voice-keeper-v2",
+  "version": "1.0.0",
+  "description": "Discord ses kanalinda sürekli aktif kalan bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-self": "^12.0.4",
+    "dotenv": "^16.3.1"
+  }
+}
